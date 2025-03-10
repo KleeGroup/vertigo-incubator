@@ -74,7 +74,7 @@ limitations under the License. --><project xmlns="http://maven.apache.org/POM/4.
 		<dependency>
 			<groupId>org.bouncycastle</groupId>
 			<artifactId>bcprov-jdk15on</artifactId>
-			<version>1.53</version>
+			<version>1.67</version>
 		</dependency>
 	</dependencies>
 </project>
